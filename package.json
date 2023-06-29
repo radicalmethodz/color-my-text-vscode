@@ -140,7 +140,6 @@
     }
   },
   "activationEvents": [
-    "*"
   ],
   "dependencies": {
     "glob": "^8.1.0",
